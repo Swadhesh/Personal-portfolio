@@ -1,0 +1,3 @@
+User-Agent: *
+Allow: /
+Sitemap: https://avinashroffl.github.io/sitemap.xml
